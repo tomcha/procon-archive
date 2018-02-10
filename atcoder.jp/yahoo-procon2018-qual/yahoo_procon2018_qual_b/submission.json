@@ -1,0 +1,12 @@
+{
+	"id": 2080717,
+	"epoch_second": 1518264735,
+	"problem_id": "yahoo_procon2018_qual_b",
+	"contest_id": "yahoo-procon2018-qual",
+	"user_id": "tomcha",
+	"language": "Ruby (2.3.3)",
+	"point": 200,
+	"length": 100,
+	"result": "AC",
+	"execution_time": 10
+}
