@@ -1,0 +1,12 @@
+{
+	"id": 3486889,
+	"epoch_second": 1540647217,
+	"problem_id": "tenka1_2018_c",
+	"contest_id": "tenka1-2018-beginner",
+	"user_id": "tomcha",
+	"language": "Ruby (2.3.3)",
+	"point": 400,
+	"length": 1055,
+	"result": "AC",
+	"execution_time": 125
+}
