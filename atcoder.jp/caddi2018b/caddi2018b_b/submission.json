@@ -1,0 +1,12 @@
+{
+	"id": 3873403,
+	"epoch_second": 1545752636,
+	"problem_id": "caddi2018b_b",
+	"contest_id": "caddi2018b",
+	"user_id": "tomcha",
+	"language": "Perl (v5.18.2)",
+	"point": 200,
+	"length": 380,
+	"result": "AC",
+	"execution_time": 5
+}
